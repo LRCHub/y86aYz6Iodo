@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Kakeashi",
+  "base_artist": "SEE",
+  "createdAt": "2026-03-02T07:57:44.742496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kakeashi",
+      "artist": "See",
+      "has_synced": false,
+      "path": "select/01_Kakeashi_See.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kakeashi",
+      "artist": "SEE",
+      "has_synced": false,
+      "path": "select/pl_01_Kakeashi_SEE.txt"
+    }
+  ]
+}
